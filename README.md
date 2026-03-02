@@ -40,5 +40,3 @@ Lipi Lab is an educational iOS application designed to help users master the Dev
 
 Created as an educational tool for learning Devanagari script.
 
----
-*Developed with ❤️ for Devanagari learners.*
